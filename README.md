@@ -6,7 +6,7 @@
 - 🌱 Hey! My name is Krithikha Balamurugan
 - 😄 I am a third year Computer Science and Enginnering student at NIT Surat
 - 🔭 I am interested in full stack development
-- 🏋 Trying to master in Development 
+- 🏋 Trying to master DSA and Development 
 ### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
