@@ -1,4 +1,6 @@
-# Hi there! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<!--<img src="./header.png" >-->
 
 ## Introduction
 - 🌱 Hey! My name is Krithikha Balamurugan
