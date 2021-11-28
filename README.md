@@ -31,7 +31,7 @@
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/krithikhabala)
-[<img align="left" alt="mail" width="40" src="./mail.jpg" />](https://mailto:krithikhabala@gmail.com)
+[<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:krithikhabala@gmail.com>)
 <br />
 
 <!--
