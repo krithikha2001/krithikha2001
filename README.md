@@ -33,10 +33,12 @@
 <hr/>
 
 ### Connect with me
+<center>
+  
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/krithikhabala)
 [<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:krithikhabala@gmail.com>)
 <br />
-
+  
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krithikha2001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
