@@ -30,7 +30,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krithikha2001)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 ![](https://komarev.com/ghpvc/?username=krithikha2001&color=green)
-
+<hr/>
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/krithikhabala)
 [<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:krithikhabala@gmail.com>)
